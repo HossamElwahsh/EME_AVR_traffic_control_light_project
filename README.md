@@ -2,10 +2,10 @@
 ## Team GUCALEX
 
 ### Team Members:
-- Hossam Elwahsh
+- Hossam Elwahsh - [Github](https://github.com/HossamElwahsh)
+- Mahmoud abdrabo - [Github](https://github.com/Mahmoud-Abdrabo)
 - Ahmed Sakr
 - Omar Mohsen
-- Mahmoud abdrabo
 
 ### AVR Interfacing Project
 #### AVR-Based Traffic Control System with Pedestrian Crossing
