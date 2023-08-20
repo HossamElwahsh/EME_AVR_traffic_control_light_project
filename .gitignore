@@ -1,0 +1,4 @@
+traffic_control/Debug/*
+cmake-build-debug/*
+.vs/
+.idea/
