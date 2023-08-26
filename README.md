@@ -1,5 +1,5 @@
 # EME - Egypt Make Electronics
-## Team GUCALEX
+## Team GUCALEX - CLASS 3 - SEITECH
 
 ### Team Members:
 - Hossam Elwahsh - [Github](https://github.com/HossamElwahsh)
